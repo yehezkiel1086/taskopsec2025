@@ -13,3 +13,7 @@ By: Yehezkiel Wiradhika
 ### 2. Make Your Web Great Again
 
 - File laporan dengan format webgreat_sevima.pdf: [webgreat_sevima.pdf](webgreat_sevima.pdf)
+
+### 3. Pentest Report nusalearn.sevima.com
+
+- File laporan uji penetrasi / pentest report https://nusalearn.sevima.com: [pentest_report_nusalearn.pdf](pentest_report_nusalearn.pdf)
